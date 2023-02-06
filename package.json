@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/Wys2/IpsumBox/issues"
   },
-  "homepage": "https://github.com/Wys2/IpsumBox#readme"
+  "homepage": "https://github.com/Wys2/IpsumBox#readme",
+  "dependencies": {
+    "better-console": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "prompt-choices": "^4.0.6"
+  }
 }
