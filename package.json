@@ -1,0 +1,26 @@
+{
+  "name": "ipsumbox",
+  "version": "1.0.0",
+  "description": "A cool tool that can generate text, images, and DB inputs",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wys2/IpsumBox.git"
+  },
+  "keywords": [
+    "ipsum",
+    "generate",
+    "loremipsum",
+    "ipsumimage",
+    "ipsumdb"
+  ],
+  "author": "Noah Schmidt - ScNo - Wys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wys2/IpsumBox/issues"
+  },
+  "homepage": "https://github.com/Wys2/IpsumBox#readme"
+}
