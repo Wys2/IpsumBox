@@ -25,7 +25,7 @@
   "homepage": "https://github.com/Wys2/IpsumBox#readme",
   "dependencies": {
     "better-console": "^1.0.1",
-    "fs": "^0.0.1-security",
-    "prompt-choices": "^4.0.6"
+    "enquirer": "^2.3.6",
+    "fs": "^0.0.1-security"
   }
 }
