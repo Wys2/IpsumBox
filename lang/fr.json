@@ -1,10 +1,17 @@
 {
-    "titles": {
-        "choices": {
+    "general": {
+        "titles": {
             "fn_choose": "Choisissez une fonction",
             "txt_gen": "Générateur de texte",
             "img_gen": "Générateur d'images",
-            "entry_gen": "Générateur d'entrées"
+            "entry_gen": "Générateur d'entrées",
+            "stf": "Enregistrer en tant que fichier ?"
         }
+    },
+    "txt_gen":{
+        "amt": "Nombre de mots à générer"
+    },
+    "results": {
+        "sucess_stf": "√ Sauvegardé avec succès !"
     }
 }

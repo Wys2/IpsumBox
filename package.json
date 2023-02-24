@@ -26,6 +26,7 @@
   "dependencies": {
     "better-console": "^1.0.1",
     "enquirer": "^2.3.6",
+    "fast-lorem-ipsum": "^1.2.0",
     "fs": "^0.0.1-security"
   }
 }

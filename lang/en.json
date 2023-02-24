@@ -1,10 +1,17 @@
 {
-    "titles": {
-        "choices": {
+    "general": {
+        "titles": {
             "fn_choose": "Choose a function",
             "txt_gen": "Text Generator",
             "img_gen": "Image Generator",
-            "entry_gen": "Entry Generator"
+            "entry_gen": "Entry Generator",
+            "stf": "Save to file ?"
         }
+    },
+    "txt_gen":{
+        "amt": "Number of words to generate"
+    },
+    "results": {
+        "sucess_stf": "√ Successfully saved to file !"
     }
 }
