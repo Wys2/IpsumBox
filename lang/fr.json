@@ -1,1 +1,10 @@
-{}
+{
+    "titles": {
+        "choices": {
+            "fn_choose": "Choisissez une fonction",
+            "txt_gen": "Générateur de texte",
+            "img_gen": "Générateur d'images",
+            "entry_gen": "Générateur d'entrées"
+        }
+    }
+}
